@@ -1,5 +1,5 @@
 # lojavirtual
- Loja virtual feito para trabalho de POO
+ Loja virtual feito para trabalho de POO <br>
 O app possui os seguintes recursos:
 <br>
 <ul>
