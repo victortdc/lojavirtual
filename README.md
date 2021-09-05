@@ -2,25 +2,42 @@
  Loja virtual feito para trabalho de POO
 O app possui os seguintes recursos:
 <br>
+<ul>
+ <li>
  Cadastro/Login (tela de login/Cadastro se ainda não tiver).
+ </li>
  <br>
+ <li>
  Login - autenticação – firebase.
+ </li>
  <br>
+  <li>
  Pagina de home com filtros de região do Brasil e categoria do produto)
- <br>
+  </li>
+   <br>
+ <li>  
  Deslogar/Logar na página de home.
- <br>
- Anunciante pode visualizar anúncios após logado.
- <br>
- Catalogo de produtos- usuário pode pesquisar produtos (anúncios) ou cadastrar 
+  </li>
+  <br>
+ <li>
+  Anunciante pode visualizar anúncios após logado.
+ </li>
+  <br>
+ <li>
+  Catalogo de produtos- usuário pode pesquisar produtos (anúncios) ou cadastrar 
  (salvar os anúncios no Firebase) e deletar se for anunciante.
- <br>
+ </li>
+  <br>
+ <li>
  As imagens do produto ele vai pegar pela galeria (biblioteca imagePicker) e 
  colocar no Firebase com o resto das informações do anúncio.
- <br>
- Selecionar produto no catalogo e ver detalhes (imagens, descrição e contato do 
+ </li>
+  <br>
+ <li>
+  Selecionar produto no catalogo e ver detalhes (imagens, descrição e contato do 
  Anunciante) com opção de redirecionar para chamada de telefone
- 
+ </li> 
+</ul>
  O app também apresenta as seguintes telas:
  <br>
 ![Tela anuncios gerais](https://user-images.githubusercontent.com/63310837/132139593-ca950c2e-f07d-482d-9351-97f9ae95d7a5.png)
