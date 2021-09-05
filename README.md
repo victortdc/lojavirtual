@@ -39,6 +39,7 @@ O app possui os seguintes recursos:
  </li> 
 </ul>
 O app também apresenta as seguintes telas:<br>
+
 ![Tela anuncios gerais](https://user-images.githubusercontent.com/63310837/132139593-ca950c2e-f07d-482d-9351-97f9ae95d7a5.png)
 
 ![Tela Login](https://user-images.githubusercontent.com/63310837/132139594-f77957b6-d1f8-4e43-8f3f-44558ec798c7.png)
