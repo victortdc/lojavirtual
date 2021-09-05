@@ -1,15 +1,23 @@
 # lojavirtual
  Loja virtual feito para trabalho de POO
 O app possui os seguintes recursos:
+<br>
  Cadastro/Login (tela de login/Cadastro se ainda não tiver).
+ <br>
  Login - autenticação – firebase.
+ <br>
  Pagina de home com filtros de região do Brasil e categoria do produto)
+ <br>
  Deslogar/Logar na página de home.
+ <br>
  Anunciante pode visualizar anúncios após logado.
+ <br>
  Catalogo de produtos- usuário pode pesquisar produtos (anúncios) ou cadastrar 
  (salvar os anúncios no Firebase) e deletar se for anunciante.
+ <br>
  As imagens do produto ele vai pegar pela galeria (biblioteca imagePicker) e 
  colocar no Firebase com o resto das informações do anúncio.
+ <br>
  Selecionar produto no catalogo e ver detalhes (imagens, descrição e contato do 
  Anunciante) com opção de redirecionar para chamada de telefone
  
