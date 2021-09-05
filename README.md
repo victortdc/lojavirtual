@@ -38,8 +38,7 @@ O app possui os seguintes recursos:
  Anunciante) com opção de redirecionar para chamada de telefone
  </li> 
 </ul>
- O app também apresenta as seguintes telas:
- <br>
+O app também apresenta as seguintes telas:<br>
 ![Tela anuncios gerais](https://user-images.githubusercontent.com/63310837/132139593-ca950c2e-f07d-482d-9351-97f9ae95d7a5.png)
 ![Tela Login](https://user-images.githubusercontent.com/63310837/132139594-f77957b6-d1f8-4e43-8f3f-44558ec798c7.png)
 ![Tela Meus Anuncios](https://user-images.githubusercontent.com/63310837/132139595-ddc7b37f-48fb-4952-9d28-9b44ebb65828.png)
