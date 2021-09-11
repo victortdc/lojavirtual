@@ -49,3 +49,6 @@ O app também apresenta as seguintes telas:<br>
 ![Tela Novo Anuncio](https://user-images.githubusercontent.com/63310837/132139596-33fa4924-42b3-4d35-954a-4d90e7cdc8e6.png)
 
 ![Tela Opcao Cadastro](https://user-images.githubusercontent.com/63310837/132139598-15737a97-e20a-457d-89c9-2c47716bec15.png)
+
+![Anuncio carroussel](https://user-images.githubusercontent.com/63310837/132961833-59a28196-ea0c-4b77-af25-3cc9163d8efc.png)
+
